@@ -1770,5 +1770,8 @@
     "STONE": "0x96147a9ae9a42d7da551fd2322ca15b71032f342",
     "RETH": "0xb5686c4f60904ec2bda6277d6fe1f7caa8d1b41a",
     "TBTC": "0xbba2ef945d523c4e2608c9e1214c2cc64d4fc2e2"
+  },
+  "deriw": {
+    "USDT": "0x06fb826981967E2889C1b5AA4c684d28efB6940B"
   }
 }
